@@ -19,13 +19,13 @@ class Coche:
         self.velocidad = v
 
 
-vw = Coche("rojo",35)
+# vw = Coche("rojo",35)
 
-print("Color:",vw.color,"Aceleracion:",vw.aceleracion)
-print("Velocidad:",vw.velocidad)
-vw.acelera()
-print("Velocidad:",vw.velocidad)
-vw.acelera()
-print("Velocidad:",vw.velocidad)
-vw.frena()
-print("Velocidad:",vw.velocidad)
+# print("Color:",vw.color,"Aceleracion:",vw.aceleracion)
+# print("Velocidad:",vw.velocidad)
+# vw.acelera()
+# print("Velocidad:",vw.velocidad)
+# vw.acelera()
+# print("Velocidad:",vw.velocidad)
+# vw.frena()
+# print("Velocidad:",vw.velocidad)
